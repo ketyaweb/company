@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-DefaultContentLanguage = "en"
-title = "Meghna"
+languageCode = "no"
+DefaultContentLanguage = "no"
+title = "Trenger du en Systemutvikler? "
 theme = "meghna-hugo"
 summaryLength = 10
 
